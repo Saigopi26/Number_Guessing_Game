@@ -1,7 +1,7 @@
 # Number Guessing Game
 
 ## Project URL
-https://github.com/Saigopi26/Number_Guessing_Game
+Project Page URL = https://github.com/Saigopi26/Number_Guessing_Game
 
 ## Description
 This is a simple Number Guessing Game implemented in Python.
