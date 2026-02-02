@@ -1,7 +1,7 @@
 # Number Guessing Game
 
 ## Project URL
-Project Page URL = https://github.com/Saigopi26/Number_Guessing_Game
+solution for [Number_Guessing_Game](https://roadmap.sh/projects/number-guessing-game) challenge from (https://roadmap.sh/)
 
 ## Description
 This is a simple Number Guessing Game implemented in Python.
